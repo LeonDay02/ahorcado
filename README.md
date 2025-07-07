@@ -1,1 +1,1 @@
-# ahorcado.0
+# ahorcado
